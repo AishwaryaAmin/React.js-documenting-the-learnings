@@ -52,7 +52,6 @@ function App(){
     return (
     <h1>hello user</h1>
     <User name = "aish" age={20} city={"bangalore"}/>
-
 )
 }
 export default
