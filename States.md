@@ -7,7 +7,7 @@ how to use state
 States in different Components
 Multiple States 
 
-State in class component
+State in class component.
 in app.js
 function App(){
     let fruit = "mango";
