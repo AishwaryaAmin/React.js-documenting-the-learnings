@@ -3,7 +3,7 @@ State in react Js
 Why state Required
 What is state
 what are hooks
-how to use state 
+how to use state
 States in different Components
 Multiple States 
 
