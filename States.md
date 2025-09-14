@@ -1,4 +1,4 @@
-State in react Js.
+State in react js.
 
 Why state Required.
 What is state
