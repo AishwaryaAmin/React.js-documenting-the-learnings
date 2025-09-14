@@ -1,6 +1,6 @@
 State in react Js
 
-Why state Required
+Why state Required.
 What is state
 what are hooks
 how to use state
