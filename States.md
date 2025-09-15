@@ -24,7 +24,7 @@ function App(){
     <button onClick ={handleFruit}>change fruit Name</button>
     
 
-)
+    )
 }
 
 the react js will update the value in the ui when its component will re render
